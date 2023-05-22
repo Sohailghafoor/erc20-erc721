@@ -1,0 +1,54 @@
+.border-red {
+  border: 3px solid red;
+  font-size: medium;
+  font-style: italic; 
+}
+.border-blue {
+  border: 3px solid blue;
+  font-size: medium;
+  font-style: italic;
+  
+ }
+.border-green {
+  border: 3px solid green;
+  font-size: medium;
+  font-style: italic;
+}
+.border-yellow{
+  border: 3px solid yellow;
+  font-size: medium;
+  font-style: italic;
+}
+.border-darkslategray{
+  border: 3px solid darkslategray;
+  font-size: medium;
+  font-style: italic;
+}
+
+.header{
+  padding: 1rem;
+  background-color: rgb(56, 60, 88);
+  /* position: fixed; */
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(56, 60, 88);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  border: 3px solid darkslategray;
+  font-size: x-large;
+  font-style: italic;
+}
+.Home-Size{
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 2rem;
+  font-style: italic; 
+}
+
