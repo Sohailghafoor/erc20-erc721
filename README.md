@@ -43,6 +43,8 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
+##   Minted Token  const contractAddress = '0xBE7a937ADdafa3D818C4101890f50ef6db4C7D30';
+## Minted NFT     const contractAddress = '0x1254eccf7ac6e050c8e734a506d28029d5a7efe7';
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
